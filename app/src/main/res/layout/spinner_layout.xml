@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Single List Item Design -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <View
+        android:background="#64DD17"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_2sdp">
+    </View>
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="@dimen/_2sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:fontFamily="sans-serif-condensed"
+            android:textAlignment="center"
+            android:id="@+id/text"
+            android:textColor="#9C2605"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/_5sdp"
+            android:paddingRight="@dimen/_1sdp"
+            android:paddingTop="@dimen/_10sdp"
+            android:paddingBottom="@dimen/_5sdp">
+        </TextView>
+    </androidx.cardview.widget.CardView>
+
+    <!--<View
+        android:background="#64DD17"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp">
+    </View>-->
+
+</LinearLayout>

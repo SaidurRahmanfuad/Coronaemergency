@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "1037803187310",
+    "firebase_url": "https://teachpoint-e43c3.firebaseio.com",
+    "project_id": "teachpoint-e43c3",
+    "storage_bucket": "teachpoint-e43c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037803187310:android:9d7f1c72f7057ba2",
+        "android_client_info": {
+          "package_name": "com.saidur.abm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037803187310-hka9s61uo2pq4nbvcd5lda0bkrs9r6sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrPy1MfrKLhKtw777SEBCMX3joUR9L8lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037803187310-hka9s61uo2pq4nbvcd5lda0bkrs9r6sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037803187310:android:eee329fb3f0cd855f10a7f",
+        "android_client_info": {
+          "package_name": "com.saidur.corona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037803187310-jvvp9jjdtgpa0ap94q7rqu7b5f5b5t82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saidur.corona",
+            "certificate_hash": "3c9574b6155303dca9c9c49425d9357c1be0c9fc"
+          }
+        },
+        {
+          "client_id": "1037803187310-hka9s61uo2pq4nbvcd5lda0bkrs9r6sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrPy1MfrKLhKtw777SEBCMX3joUR9L8lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037803187310-hka9s61uo2pq4nbvcd5lda0bkrs9r6sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037803187310:android:1ee7d70ddfb91d9ef10a7f",
+        "android_client_info": {
+          "package_name": "com.saidur.paharadar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037803187310-r84er3d44git6770cn1lldiv1ubukcmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saidur.paharadar",
+            "certificate_hash": "3c9574b6155303dca9c9c49425d9357c1be0c9fc"
+          }
+        },
+        {
+          "client_id": "1037803187310-hka9s61uo2pq4nbvcd5lda0bkrs9r6sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrPy1MfrKLhKtw777SEBCMX3joUR9L8lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037803187310-hka9s61uo2pq4nbvcd5lda0bkrs9r6sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
